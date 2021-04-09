@@ -1,7 +1,7 @@
-<code><h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Bhargav Borse <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Bhargav Borse <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
-<h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3>
+<code><h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3>
 
 <p align="center"> 
 <a href="https://bhargavborse.netlify.app/" target="_blank"><img src="https://img.shields.io/website?label=bhargavborse.netlify.app&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fbhargavborse.netlify.app/" alt="bhargavborse.netlify.app" /></a>
