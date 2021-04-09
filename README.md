@@ -10,20 +10,26 @@
 </p>
 <hr>
 
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+<h3> 🧑 About me </h3>
 
-### Wanna stalk my website:question::point_right: [Click Here](https://bhargavborse.netlify.app/):sparkles:
+- 🌱 I’m currently learning **Everything 🤣**
 
-### What am I learning:question::point_down:	
-<code>var topics = ["Flutter", "AWS", "Unity"];</code>
+- 👨‍💻 All of my projects are available at [https://github.com/BhargavBorse](https://github.com/BhargavBorse)
 
-### What can I help with:question::cyclone:
-<code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
+- 💬 Ask me about **JavaScript, Node.Js, React, PHP, HTML, CSS**
 
-### How to connect with me:question::email:
+- 📫 How to reach me **bhargavborse4898@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/bhargav-borse-041697/](https://www.linkedin.com/in/bhargav-borse-041697/)
+
+- ⚡ Fun fact **I love to code**
+
+### How to reach me:question::email:
 :star: <code>[Mail](mailto:bhargavborse4898@gmail.com)</code>    
 :star: <code>[Twitter](https://twitter.com/bhargav_borse)</code>  
-:star: <code>[LinkedIn](https://www.linkedin.com/in/bhargav-borse-041697/)</code>
+:star: <code>[LinkedIn](https://www.linkedin.com/in/bhargav-borse-041697/)</code><br>
 :star: <code>[Instagram](https://www.instagram.com/incognito_0498/)</code>
 
 
