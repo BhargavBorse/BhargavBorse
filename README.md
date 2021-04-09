@@ -27,10 +27,10 @@
 - ⚡ Fun fact **I love to code**
 
 ### How to reach me:question::email:
-:star: <code>[Mail](mailto:bhargavborse4898@gmail.com)</code>    
-:star: <code>[Twitter](https://twitter.com/bhargav_borse)</code>  
-:star: <code>[LinkedIn](https://www.linkedin.com/in/bhargav-borse-041697/)</code><br>
-:star: <code>[Instagram](https://www.instagram.com/incognito_0498/)</code>
+- <code>[Mail](mailto:bhargavborse4898@gmail.com)</code>    
+- <code>[Twitter](https://twitter.com/bhargav_borse)</code>  
+- <code>[LinkedIn](https://www.linkedin.com/in/bhargav-borse-041697/)</code><br>
+- <code>[Instagram](https://www.instagram.com/incognito_0498/)</code>
 
 
 <!--
