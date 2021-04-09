@@ -1,4 +1,4 @@
-<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Bhargav Borse <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<code><h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Bhargav Borse <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 <h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3>
@@ -34,7 +34,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavborse&" alt="bhargavborse" width=50% /></p>
 
-### How to reach me:question::email:
+### How to reach me:question::email:</code>
 - <code>[Mail](mailto:bhargavborse4898@gmail.com)</code>    
 - <code>[Twitter](https://twitter.com/bhargav_borse)</code>  
 - <code>[LinkedIn](https://www.linkedin.com/in/bhargav-borse-041697/)</code><br>
