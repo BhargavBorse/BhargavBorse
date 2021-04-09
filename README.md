@@ -1,7 +1,7 @@
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Bhargav Borse <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
-<code><h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3>
+<h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3>
 
 <p align="center"> 
 <a href="https://bhargavborse.netlify.app/" target="_blank"><img src="https://img.shields.io/website?label=bhargavborse.netlify.app&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fbhargavborse.netlify.app/" alt="bhargavborse.netlify.app" /></a>
@@ -34,7 +34,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavborse&" alt="bhargavborse" width=50% /></p>
 
-### How to reach me:question::email:</code>
+### How to reach me:question::email:
 - <code>[Mail](mailto:bhargavborse4898@gmail.com)</code>    
 - <code>[Twitter](https://twitter.com/bhargav_borse)</code>  
 - <code>[LinkedIn](https://www.linkedin.com/in/bhargav-borse-041697/)</code><br>
