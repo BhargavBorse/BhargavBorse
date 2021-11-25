@@ -19,7 +19,7 @@
 - 👯 I'm looking to collaborate on **JavaScript, Node.Js, React, Angular, PWA, Material.UI, UX/UI**
 - ⚡ A big list of things I’ve worked on - [Archive Projects](https://bhargavborse.netlify.app/archive/)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/bhargav-borse-041697/)
-- 🔭 [CodePen Collection](https://codepen.io/your-work)
+- 🔭 [CodePen Collection](https://codepen.io/bhargavborse)
 
 
 <h3 align="left">Languages and Tools:</h3>
