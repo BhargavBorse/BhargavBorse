@@ -14,17 +14,12 @@
 
 <h3> 🧑 About me </h3>
 
-- 🌱 I’m currently learning **Everything 🤣**
-
-- 👨‍💻 All of my projects are available at [https://github.com/BhargavBorse](https://github.com/BhargavBorse)
-
-- 💬 Ask me about **JavaScript, Node.Js, React, PHP, HTML, CSS**
-
-- 📫 How to reach me **bhargavborse4898@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/bhargav-borse-041697/](https://www.linkedin.com/in/bhargav-borse-041697/)
-
-- ⚡ Fun fact **I love to code**
+- 🌱 [Personal Website](https://bhargavborse.netlify.app/)
+- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/BhargavBorse?tab=repositories)
+- 👯 I'm looking to collaborate on **JavaScript, Node.Js, React, Angular, PWA, Material.UI, UX/UI**
+- ⚡ A big list of things I’ve worked on - [Archive Projects](https://bhargavborse.netlify.app/archive/)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/bhargav-borse-041697/)
+- 🔭 [CodePen Collection](https://codepen.io/your-work)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,11 +30,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavborse&" alt="bhargavborse" /></p>
 
 ### How to reach me:question::email:
-- <code>[Mail](mailto:bhargavborse4898@gmail.com)</code>    
+- <code>[Mail](mailto:bhargav.borse4@gmail.com)</code>    
 - <code>[Twitter](https://twitter.com/bhargav_borse)</code>  
 - <code>[LinkedIn](https://www.linkedin.com/in/bhargav-borse-041697/)</code><br>
 - <code>[Instagram](https://www.instagram.com/incognito_0498/)</code>
-
 
 
 
