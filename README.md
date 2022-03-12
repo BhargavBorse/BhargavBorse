@@ -34,7 +34,8 @@
 - <code>[Mail](mailto:bhargav.borse4@gmail.com)</code>    
 - <code>[Twitter](https://twitter.com/bhargav_borse)</code>  
 - <code>[LinkedIn](https://www.linkedin.com/in/bhargav-borse-041697/)</code><br>
-- <code>[Instagram](https://www.instagram.com/bhargav.borse/)</code>
+- <code>[Instagram](https://www.instagram.com/bhargav.borse/){target="_blank"}</code>
+- <a href="https://www.instagram.com/bhargav.borse//" target="_blank">InstagramBB</a>
 
 
 
