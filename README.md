@@ -30,7 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavborse&" alt="bhargavborse" /></p>
 
-### How to reach me:question::email:
+### How to reach me?
 - <code>[Mail](mailto:bhargav.borse4@gmail.com)</code>    
 - <code>[Twitter](https://twitter.com/bhargav_borse)</code>  
 - <code>[LinkedIn](https://www.linkedin.com/in/bhargav-borse-041697/)</code><br>
