@@ -28,7 +28,17 @@
 <h3><img height="20px" src="https://user-images.githubusercontent.com/50364832/143619165-74c703be-b3a3-4902-9563-07928511c2bc.gif" /> Github Analytics</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=bhargavborse&show_icons=true&locale=en" alt="bhargavborse" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavborse&" alt="bhargavborse" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavborse&" alt="bhargavborse" />
+</p>
+
+<i>Follow me around the web:</i><br>
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
+<a href="https://www.linkedin.com/in/bhargavborse" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/bhargav.borse" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/bhargav_borse" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://open.spotify.com/user/31b4r43qud72vri7ifafn5cm5ggq" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+
 
 ### How to reach me?
 - <code>[Mail](mailto:bhargav.borse4@gmail.com)</code>    
