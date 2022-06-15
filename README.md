@@ -40,13 +40,6 @@
 <a href="https://open.spotify.com/user/31b4r43qud72vri7ifafn5cm5ggq" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 
-### How to reach me?
-- <code>[Mail](mailto:bhargav.borse4@gmail.com)</code>    
-- <code>[Twitter](https://twitter.com/bhargav_borse)</code>  
-- <code>[LinkedIn](https://www.linkedin.com/in/bhargav-borse-041697/)</code><br>
-- <code>[Instagram](https://www.instagram.com/bhargav.borse/)</code>
-
-
 
 <!--
 **BhargavBorse/BhargavBorse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
