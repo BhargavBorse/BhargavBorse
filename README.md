@@ -6,7 +6,7 @@
 <p align="center"> 
 <a href="https://bhargavborse.netlify.app/" target="_blank"><img src="https://img.shields.io/website?label=bhargavborse.netlify.app&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fbhargavborse.netlify.app/" alt="bhargavborse.netlify.app" /></a>
 <a href="https://twitter.com/bhargav_borse" target="blank"><img src="https://img.shields.io/twitter/follow/bhargav_borse?logo=twitter&style=for-the-badge" alt="bhargav_borse" /></a>
-<a href="https://www.linkedin.com/in/bhargav-borse-041697/"><img src="https://img.shields.io/badge/-Bhargav%20Borse-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bhargavborse/"><img src="https://img.shields.io/badge/-Bhargav%20Borse-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
 <hr>
 
