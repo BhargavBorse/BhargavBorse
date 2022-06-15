@@ -10,7 +10,7 @@
 </p>
 <hr>
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/BhargavBorse/BhargavBorse/1e3ad55a2435d6f565b5476cc36b2ed972204a2f/asset/git-header.svg" />
 
 <h3> 🧑 About me </h3>
 
